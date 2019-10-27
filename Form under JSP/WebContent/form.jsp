@@ -9,7 +9,7 @@
 <body>
 <form action="Submit.jsp" method="post">
 
-Full Name: <input name="fullname" type="text"></br>
+Full Name: <input name="fullname" type="text" required></br>
 Gender: <input type="radio" name="gender" value="Male" checked> Male
 		<input type="radio" name="gender" value="Female"> Female
 		</br>
